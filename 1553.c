@@ -1,5 +1,7 @@
 /*Esse codigoo uri diz que esse codigo tá 20% errado se alguem souber o erro diga*/
-int k,p,i,j,cont;
+#include <stdio.h>
+main(){
+	int k,p,i,j,cont;
 	while(1 == 1){
 		scanf("%i%i",&k,&p);
 		if(k == 0 || p == 0){
