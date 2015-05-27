@@ -4,7 +4,7 @@ main(){
 	int k,p,i,j,cont;
 	while(1 == 1){
 		scanf("%i%i",&k,&p);
-		if(k == 0 || p == 0){
+		if(k == 0 && p == 0){
 			break;
 		}
 		int pNV[k],c2[k];
